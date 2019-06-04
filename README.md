@@ -12,6 +12,9 @@ Friend Finder is a web-based compatability app that takes in user input (based o
 
 4. Application runs on PORT 8080. Launch a browser using the URL localhost:8080
 
+## App Demo
+![FriendFinder Demo](\app\public\images\survey.gif)
+
 ### Links to the app:
 1. [FriendFinder Github](https://github.com/Razinali/FriendFinder/)
 2. [FriendFinder Heroku](https://morning-cliffs-92981.herokuapp.com/)
